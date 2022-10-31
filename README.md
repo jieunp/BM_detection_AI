@@ -43,7 +43,7 @@ For more information about [nnU-Net](https://github.com/MIC-DKFZ/nnUNet), please
 ## Installation
 Installed requirements can cause potential conflicts with your library. Therefore, we recommend that you configure the virtual environment to run the following process.
 
-[CUDA](https://developer.nvidia.com/cuda-toolkit-archive) and [cuDNN](https://developer.nvidia.com/cudnn) are required prior to installation.
+This program has been confirmed to work in **Ubuntu 18.04 and 20.04**. [CUDA](https://developer.nvidia.com/cuda-toolkit-archive) and [cuDNN](https://developer.nvidia.com/cudnn) are required prior to installation.
 
 1. This program was written using Python 3. Check your Python version.
 2. Install [PyTorch](https://pytorch.org/get-started/locally) as described on their website (conda/pip).
@@ -60,7 +60,7 @@ Installed requirements can cause potential conflicts with your library. Therefor
 4. Install nnU-Net
 
     ```bash
-    git clone https://github.com/MIC-DKFZ/nnUNet.git
+    git clone https://github.com/jieunp/BM_detection_AI.git
     cd BM_detection_AI
     pip install -r requirements.txt
     pip install -e .
@@ -78,6 +78,7 @@ Installed requirements can cause potential conflicts with your library. Therefor
             ├── Patient_A.nii        <- Segmentation mask
             └── Patient_B.nii
 
+6. Download the model `best.model` file through the following [download](https://drive.google.com/file/d/1w7N0z901rAzuC6I7AarVbNE7c5DZyQjk/view), and move it to the path.`BM_detection_AI/results/nnUNet/3d_fullres/meta/nnUNetTrainer__nnUNetPlans/all`
 
 ## Usage
 Detect metastasis by running `predict_simple.py`.

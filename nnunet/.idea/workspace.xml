@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4df6e2e6-b604-4604-bd15-c27abaf24887" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../docker/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker/predict.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../docker/predict.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../docker/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker/rename_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/../docker/rename_input.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset_conversion/AutomaticCardiacDetectionChallenge.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataset_conversion/AutomaticCardiacDetectionChallenge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset_conversion/BeyondCranialVaultAbdominalOrganSegmentation.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataset_conversion/BeyondCranialVaultAbdominalOrganSegmentation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset_conversion/BraTS_2019.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataset_conversion/BraTS_2019.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset_conversion/ISBI_MSLesionSegmentationChallenge.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataset_conversion/ISBI_MSLesionSegmentationChallenge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset_conversion/LiverTumorSegmentationChallenge.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataset_conversion/LiverTumorSegmentationChallenge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset_conversion/Promise2012.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataset_conversion/Promise2012.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset_conversion/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataset_conversion/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset_conversion/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/dataset_conversion/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evaluation/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluation/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evaluation/add_dummy_task_with_mean_over_all_tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluation/add_dummy_task_with_mean_over_all_tasks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evaluation/add_mean_dice_to_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluation/add_mean_dice_to_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evaluation/collect_results_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluation/collect_results_files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evaluation/evaluator.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluation/evaluator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evaluation/metrics.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluation/metrics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evaluation/model_selection/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluation/model_selection/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evaluation/model_selection/collect_all_fold0_results_and_summarize_in_one_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluation/model_selection/collect_all_fold0_results_and_summarize_in_one_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evaluation/model_selection/ensemble.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluation/model_selection/ensemble.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evaluation/model_selection/figure_out_what_to_submit.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluation/model_selection/figure_out_what_to_submit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evaluation/model_selection/summarize_results_in_one_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluation/model_selection/summarize_results_in_one_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evaluation/model_selection/summarize_results_with_plans.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluation/model_selection/summarize_results_with_plans.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment_planning/DatasetAnalyzer.py" beforeDir="false" afterPath="$PROJECT_DIR$/experiment_planning/DatasetAnalyzer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment_planning/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/experiment_planning/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment_planning/common_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/experiment_planning/common_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment_planning/configuration.py" beforeDir="false" afterPath="$PROJECT_DIR$/experiment_planning/configuration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment_planning/experiment_planner_baseline_2DUNet.py" beforeDir="false" afterPath="$PROJECT_DIR$/experiment_planning/experiment_planner_baseline_2DUNet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment_planning/experiment_planner_baseline_3DUNet.py" beforeDir="false" afterPath="$PROJECT_DIR$/experiment_planning/experiment_planner_baseline_3DUNet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment_planning/find_classes_in_slice.py" beforeDir="false" afterPath="$PROJECT_DIR$/experiment_planning/find_classes_in_slice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment_planning/plan_and_preprocess_task.py" beforeDir="false" afterPath="$PROJECT_DIR$/experiment_planning/plan_and_preprocess_task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment_planning/summarize_plans.py" beforeDir="false" afterPath="$PROJECT_DIR$/experiment_planning/summarize_plans.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/inference/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference/ensemble_predictions.py" beforeDir="false" afterPath="$PROJECT_DIR$/inference/ensemble_predictions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/inference/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference/predict_simple.py" beforeDir="false" afterPath="$PROJECT_DIR$/inference/predict_simple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference/segmentation_export.py" beforeDir="false" afterPath="$PROJECT_DIR$/inference/segmentation_export.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_architecture/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/network_architecture/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_architecture/generic_UNet.py" beforeDir="false" afterPath="$PROJECT_DIR$/network_architecture/generic_UNet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_architecture/initialization.py" beforeDir="false" afterPath="$PROJECT_DIR$/network_architecture/initialization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network_architecture/neural_network.py" beforeDir="false" afterPath="$PROJECT_DIR$/network_architecture/neural_network.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paths.py" beforeDir="false" afterPath="$PROJECT_DIR$/paths.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preprocessing/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/preprocessing/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preprocessing/cropping.py" beforeDir="false" afterPath="$PROJECT_DIR$/preprocessing/cropping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preprocessing/preprocessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/preprocessing/preprocessing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/run/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/default_configuration.py" beforeDir="false" afterPath="$PROJECT_DIR$/run/default_configuration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/run_training.py" beforeDir="false" afterPath="$PROJECT_DIR$/run/run_training.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/cascade_stuff/predict_next_stage.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/cascade_stuff/predict_next_stage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/data_augmentation/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/data_augmentation/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/data_augmentation/custom_transforms.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/data_augmentation/custom_transforms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/data_augmentation/default_data_augmentation.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/data_augmentation/default_data_augmentation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/data_augmentation/pyramid_augmentations.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/data_augmentation/pyramid_augmentations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/dataloading/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/dataloading/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/dataloading/dataset_loading.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/dataloading/dataset_loading.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/loss_functions/ND_Crossentropy.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/loss_functions/ND_Crossentropy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/loss_functions/TopK_loss.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/loss_functions/TopK_loss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/loss_functions/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/loss_functions/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/loss_functions/dice_loss.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/loss_functions/dice_loss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/model_restore.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/model_restore.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/network_training/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/network_training/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/network_training/network_trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/network_training/network_trainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/network_training/nnUNetTrainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/network_training/nnUNetTrainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/network_training/nnUNetTrainerCascadeFullRes.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/network_training/nnUNetTrainerCascadeFullRes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/network_training/nnUNet_variants/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/network_training/nnUNet_variants/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/network_training/nnUNet_variants/nnUNetTrainerCE.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/network_training/nnUNet_variants/nnUNetTrainerCE.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/nd_softmax.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/nd_softmax.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/one_hot_encoding.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/one_hot_encoding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/online_evaluation_metrics.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/online_evaluation_metrics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/tensor_utilities.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/tensor_utilities.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="nnunet" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1TpD2aAYMjBKppNQxJ2LqilWojO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/experiment_planning/plan_and_preprocess_task.py" />
+    <property name="nodejs.protractor.protractor_package" value="" />
+    <property name="settings.editor.selected.configurable" value="com.maddyhome.idea.vim.ui.VimEmulationConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.prepare_dataset">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="nnunet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/inference" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inference/predict_simple.py" />
+      <option name="PARAMETERS" value="-i $USER_HOME$/nnUNetInput -o $USER_HOME$/nnUNetOutput -t Task03_HELP_mk3_epoch554 -tr nnUNetTrainer -m 3d_fullres -f all" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predict_simple" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="nnunet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="RESULTS_FOLDER" value="$PROJECT_DIR$/../results" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inference/predict_simple.py" />
+      <option name="PARAMETERS" value="-i $USER_HOME$/nnUNetInput -o $USER_HOME$/nnUNetOutput -t Task03_HELP_mk3_epoch554 -tr nnUNetTrainer -m 3d_fullres -f all" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prepare_dataset" type="PythonConfigurationType" factoryName="Python">
+      <module name="nnunet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="nnUNet_preprocessed" value="$PROJECT_DIR$/../preprocessed" />
+        <env name="nnUNet_base" value="/mnt/data/tumor_base" />
+        <env name="RESULTS_FOLDER" value="$PROJECT_DIR$/../results" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/experiment_planning" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/experiment_planning/plan_and_preprocess_task.py" />
+      <option name="PARAMETERS" value="-t test -o 1" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.predict_simple" />
+      <item itemvalue="Python.prepare_dataset" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4df6e2e6-b604-4604-bd15-c27abaf24887" name="Default Changelist" comment="" />
+      <created>1574147936452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574147936452</updated>
+      <workItem from="1574147939389" duration="44000" />
+      <workItem from="1574148004536" duration="49803000" />
+      <workItem from="1574307008388" duration="2061000" />
+      <workItem from="1574321065795" duration="5190000" />
+      <workItem from="1575515417159" duration="114000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="455" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1575515512762">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="455" y="259" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575515512762" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/network_architecture/neural_network.py</url>
+          <line>391</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/network_architecture/neural_network.py</url>
+          <line>377</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/preprocessing/cropping.py</url>
+          <line>157</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/preprocessing/cropping.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/preprocessing/cropping.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/nnunet$prepare_dataset.coverage" NAME="prepare_dataset Coverage Results" MODIFIED="1574276192286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiment_planning" />
+    <SUITE FILE_PATH="coverage/nnunet$predict_simple.coverage" NAME="predict_simple Coverage Results" MODIFIED="1574255260129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+  </component>
+</project>

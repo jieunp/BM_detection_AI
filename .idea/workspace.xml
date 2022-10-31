@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ec5b4f9-a166-4456-b9b9-ed3752524217" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/docker/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/predict.sh" beforeDir="false" afterPath="$PROJECT_DIR$/docker/predict.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/docker/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/rename_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/docker/rename_input.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/dataset_conversion/AutomaticCardiacDetectionChallenge.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/dataset_conversion/AutomaticCardiacDetectionChallenge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/dataset_conversion/BeyondCranialVaultAbdominalOrganSegmentation.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/dataset_conversion/BeyondCranialVaultAbdominalOrganSegmentation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/dataset_conversion/BraTS_2019.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/dataset_conversion/BraTS_2019.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/dataset_conversion/ISBI_MSLesionSegmentationChallenge.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/dataset_conversion/ISBI_MSLesionSegmentationChallenge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/dataset_conversion/LiverTumorSegmentationChallenge.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/dataset_conversion/LiverTumorSegmentationChallenge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/dataset_conversion/Promise2012.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/dataset_conversion/Promise2012.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/dataset_conversion/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/dataset_conversion/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/dataset_conversion/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/dataset_conversion/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/evaluation/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/evaluation/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/evaluation/add_dummy_task_with_mean_over_all_tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/evaluation/add_dummy_task_with_mean_over_all_tasks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/evaluation/add_mean_dice_to_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/evaluation/add_mean_dice_to_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/evaluation/collect_results_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/evaluation/collect_results_files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/evaluation/evaluator.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/evaluation/evaluator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/evaluation/metrics.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/evaluation/metrics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/evaluation/model_selection/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/evaluation/model_selection/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/evaluation/model_selection/collect_all_fold0_results_and_summarize_in_one_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/evaluation/model_selection/collect_all_fold0_results_and_summarize_in_one_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/evaluation/model_selection/ensemble.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/evaluation/model_selection/ensemble.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/evaluation/model_selection/figure_out_what_to_submit.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/evaluation/model_selection/figure_out_what_to_submit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/evaluation/model_selection/summarize_results_in_one_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/evaluation/model_selection/summarize_results_in_one_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/evaluation/model_selection/summarize_results_with_plans.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/evaluation/model_selection/summarize_results_with_plans.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/experiment_planning/DatasetAnalyzer.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/experiment_planning/DatasetAnalyzer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/experiment_planning/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/experiment_planning/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/experiment_planning/common_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/experiment_planning/common_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/experiment_planning/configuration.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/experiment_planning/configuration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/experiment_planning/experiment_planner_baseline_2DUNet.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/experiment_planning/experiment_planner_baseline_2DUNet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/experiment_planning/experiment_planner_baseline_3DUNet.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/experiment_planning/experiment_planner_baseline_3DUNet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/experiment_planning/find_classes_in_slice.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/experiment_planning/find_classes_in_slice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/experiment_planning/plan_and_preprocess_task.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/experiment_planning/plan_and_preprocess_task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/experiment_planning/summarize_plans.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/experiment_planning/summarize_plans.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/inference/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/inference/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/inference/ensemble_predictions.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/inference/ensemble_predictions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/inference/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/inference/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/inference/predict_simple.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/inference/predict_simple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/inference/segmentation_export.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/inference/segmentation_export.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/network_architecture/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/network_architecture/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/network_architecture/generic_UNet.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/network_architecture/generic_UNet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/network_architecture/initialization.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/network_architecture/initialization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/network_architecture/neural_network.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/network_architecture/neural_network.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/paths.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/paths.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/preprocessing/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/preprocessing/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/preprocessing/cropping.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/preprocessing/cropping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/preprocessing/preprocessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/preprocessing/preprocessing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/run/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/run/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/run/default_configuration.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/run/default_configuration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/run/run_training.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/run/run_training.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/training/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/training/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/training/cascade_stuff/predict_next_stage.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/training/cascade_stuff/predict_next_stage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/training/data_augmentation/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/training/data_augmentation/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/training/data_augmentation/custom_transforms.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/training/data_augmentation/custom_transforms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/training/data_augmentation/default_data_augmentation.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/training/data_augmentation/default_data_augmentation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/training/data_augmentation/pyramid_augmentations.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/training/data_augmentation/pyramid_augmentations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/training/dataloading/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/training/dataloading/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/training/dataloading/dataset_loading.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/training/dataloading/dataset_loading.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/training/loss_functions/ND_Crossentropy.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/training/loss_functions/ND_Crossentropy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/training/loss_functions/TopK_loss.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/training/loss_functions/TopK_loss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/training/loss_functions/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/training/loss_functions/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/training/loss_functions/dice_loss.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/training/loss_functions/dice_loss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/training/model_restore.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/training/model_restore.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/training/network_training/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/training/network_training/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/training/network_training/network_trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/training/network_training/network_trainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/training/network_training/nnUNetTrainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/training/network_training/nnUNetTrainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/training/network_training/nnUNetTrainerCascadeFullRes.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/training/network_training/nnUNetTrainerCascadeFullRes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/training/network_training/nnUNet_variants/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/training/network_training/nnUNet_variants/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/training/network_training/nnUNet_variants/nnUNetTrainerCE.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/training/network_training/nnUNet_variants/nnUNetTrainerCE.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/utilities/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/utilities/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/utilities/nd_softmax.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/utilities/nd_softmax.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/utilities/one_hot_encoding.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/utilities/one_hot_encoding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/utilities/online_evaluation_metrics.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/utilities/online_evaluation_metrics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nnunet/utilities/tensor_utilities.py" beforeDir="false" afterPath="$PROJECT_DIR$/nnunet/utilities/tensor_utilities.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1TpC59voQotPbrIv2p8vxa3F6cW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ec5b4f9-a166-4456-b9b9-ed3752524217" name="Default Changelist" comment="" />
+      <created>1574147463242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574147463242</updated>
+      <workItem from="1574147638564" duration="238000" />
+      <workItem from="1587382943989" duration="2888000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2372" y="221" width="1216" height="657" key="find.popup" timestamp="1587383868117">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2372" y="221" width="1216" height="657" key="find.popup/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1587383868117" />
+    <state x="2543" y="237" width="672" height="678" key="search.everywhere.popup" timestamp="1587383842149">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="237" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1587383842149" />
+  </component>
+</project>

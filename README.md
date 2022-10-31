@@ -78,7 +78,7 @@ This program has been confirmed to work in **Ubuntu 18.04 and 20.04**. [CUDA](ht
             ├── Patient_A.nii        <- Segmentation mask
             └── Patient_B.nii
 
-6. Download the model `best.model` file through the following [download](https://drive.google.com/file/d/1w7N0z901rAzuC6I7AarVbNE7c5DZyQjk/view), and move it to the path.`BM_detection_AI/results/nnUNet/3d_fullres/meta/nnUNetTrainer__nnUNetPlans/all`
+6. Download the model `best.model` file through the following [download](https://drive.google.com/file/d/1w7N0z901rAzuC6I7AarVbNE7c5DZyQjk/view), and move it to the `BM_detection_AI/results/nnUNet/3d_fullres/meta/nnUNetTrainer__nnUNetPlans/all`.
 
 ## Usage
 Detect metastasis by running `predict_simple.py`.

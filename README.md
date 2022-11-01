@@ -19,10 +19,10 @@ Deep learning-based Metastasis Detection to Enhance Reproducibility and Reduce W
 - [Acknowledgements](#acknowledgements)
 
 ## MRI Acquisition Protocol
-### AMC (Asan Medical Center)
+### Center 1
 The imaging parameters for the GRE-T1WI sequence were as follows: repetition time (TR)/echo time (TE), 9.8/4.6 ms; flip angle, 8°; field of view, 24 cm; section thickness, 1 mm; matrix, 1024 × 1024; and acquisition time, 2 minutes 58 s. The parameters for the fast spin-echo sequence were as follows: TR/TE, 600/28.4 ms; flip angle, 90°; field of view, 24 cm; section thickness, 1 mm; matrix, 512 × 512; and acquisition time, 3 minutes 33 s. The improved motion-sensitized driven-equilibrium pre-pulse consisted of one 90° excitation pulse, two 180° refocusing pulses, and one 90° excitation pulse with motion-sensitized gradients between radiofrequency pulses. The duration between the two 90° pulses (TEprep) was 28.3 ms, and the flow velocity encoding for gradient pulses was 3 cm/s.
 
-### Severance hospital
+### Center 2
 The parameters for the fast spin-echo sequence were as follows: TR/TE, 600/28.4 ms; flip angle, 90°; field of view, 24 cm; section thickness, 1 mm; matrix, 240 × 240; and acquisition time, 3 minutes 23 s. The improved motion-sensitized driven-equilibrium pre-pulse consisted of one 90° excitation pulse, two 180° refocusing pulses, and one 90° excitation pulse with motion-sensitized gradients between radiofrequency pulses. The duration between the two 90° pulses (TEprep) was 28.3 ms, and the flow velocity encoding for gradient pulses was 1.3 cm/s. The imaging parameters for the GRE-T1WI sequence were as follows: repetition time (TR)/echo time (TE), 5.9-8.6/2.8-4.7 ms; flip angle, 8°; field of view, 24 cm; section thickness, 1 mm; matrix, 240 × 240; and acquisition time, 3 minutes 2 s.
 
 ### Table 1
